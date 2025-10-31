@@ -1,6 +1,6 @@
-# Resume Builder
+# 📝 Resume Builder
 
-📝 A modern and minimal resume builder
+📝 Modern and minimal resume builder
 
 ## TODOs
 
