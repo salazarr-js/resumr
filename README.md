@@ -7,3 +7,6 @@
 - [ ] Install `tailwind`
 - [ ] Setup `shadcn`
 - [ ] Vercel AI SDK
+
+## Inspo
+- https://resume.io
